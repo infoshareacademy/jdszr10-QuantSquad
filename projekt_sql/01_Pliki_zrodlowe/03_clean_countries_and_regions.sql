@@ -1,4 +1,6 @@
--- zapytanie zwracające Country, ile razy występuje na liście (powininen 5 razy bo mamy 5 lat wyników) oraz kraj 1,2 i 3 pozycje wyżej na liście oraz kraj 1,2 i 3 pozycje niżej na liście (aby zobaczyć czy nie ma różnicy w nazwie) 
+-- query returning Country,
+-- how many times it is listed (should be 5 as we have 5 years measured)
+-- and country 1,2 and 3 higher on list or 1,2 and 3 lower on list (to see if there are differences and/or similarities in name) 
 select *
 from
     (select "Country",
@@ -20,7 +22,7 @@ where status='Potrzebna korekta'
 
 
 
--- czyszczenie danych jako wynik analizy zapytaniem powyżej
+-- cleaning country data based on results of query above
 
 DELETE from "AllYears" WHERE "Country"='Angola';
 DELETE from "AllYears" WHERE "Country"='Belize';
@@ -49,7 +51,7 @@ UPDATE "AllYears" set "Country" = 'North Cyprus' WHERE "Country"='Northern Cypru
 UPDATE "AllYears" set "Country" = 'Taiwan' WHERE "Country"='Taiwan Province of China';
 UPDATE "AllYears" set "Country" = 'Trinidad and Tobago' WHERE "Country"='Trinidad & Tobago';
 
--- aktualizacja kolumny Region dla pomiarów w których nie były podane (2017/2018/2019)
+-- update column  Region for measures where Region was missing (Years 2017/2018/2019)
 
 update "AllYears" ay set "Region"= (select distinct ay_r."Region" from "AllYears" ay_r where ay_r."Region" notnull and ay_r."Country" = ay."Country" order by ay_r."Region" limit 1)
 where ay."Region" isnull ;

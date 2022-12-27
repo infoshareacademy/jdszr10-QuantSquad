@@ -24,4 +24,6 @@ textregexeq("Generosity",'^[[:digit:]]+(\.[[:digit:]]+)?$')  = false or
 textregexeq("Trust",'^[[:digit:]]+(\.[[:digit:]]+)?$')  = false or
 textregexeq("SocSupport" ,'^[[:digit:]]+(\.[[:digit:]]+)?$')  = false
 
+-- delete 'United Arab Emirates' as there is "N/A" for one of measures.
+
 DELETE FROM  "AllYears" ay where "Country" = 'United Arab Emirates'
