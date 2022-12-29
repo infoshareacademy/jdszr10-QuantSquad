@@ -32,10 +32,8 @@ DELETE from "AllYears" WHERE "Country"='Djibouti';
 DELETE from "AllYears" WHERE "Country"='Gambia';
 DELETE from "AllYears" WHERE "Country"='Laos';
 DELETE from "AllYears" WHERE "Country"='Lesotho';
-DELETE from "AllYears" WHERE "Country"='Macedonia';
 DELETE from "AllYears" WHERE "Country"='Mozambique';
 DELETE from "AllYears" WHERE "Country"='Namibia';
-DELETE from "AllYears" WHERE "Country"='North Macedonia';
 DELETE from "AllYears" WHERE "Country"='Oman';
 DELETE from "AllYears" WHERE "Country"='Puerto Rico';
 DELETE from "AllYears" WHERE "Country"='Somalia';
@@ -46,6 +44,7 @@ DELETE from "AllYears" WHERE "Country"='Sudan';
 DELETE from "AllYears" WHERE "Country"='Suriname';
 DELETE from "AllYears" WHERE "Country"='Swaziland';
 
+UPDATE "AllYears" set "Country" = 'North Macedonia' WHERE "Country"='Macedonia';
 UPDATE "AllYears" set "Country" = 'Hong Kong' WHERE "Country"='Hong Kong S.A.R., China';
 UPDATE "AllYears" set "Country" = 'North Cyprus' WHERE "Country"='Northern Cyprus';
 UPDATE "AllYears" set "Country" = 'Taiwan' WHERE "Country"='Taiwan Province of China';
