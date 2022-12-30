@@ -152,6 +152,19 @@ alter table allyears rename column "generosity" to "Generosity";
 alter table allyears rename column "Trust (Government Corruption)" to "Trust";
 alter table allyears rename column "Family" to "SocSupport";
 
+/*Ujednolicenie typu danych w poszczególnych kolumnach*/
+alter table allyears alter column "Year" type varchar(50);
+alter table allyears alter column "HappiRank" type numeric;
+alter table allyears alter column "Country" type varchar(50);
+alter table allyears alter column "Region" type varchar(50);
+alter table allyears alter column "HappiScore" type numeric;
+alter table allyears alter column "GDP" type numeric;
+alter table allyears alter column "Health" type numeric;
+alter table allyears alter column "Freedom" type numeric;
+alter table allyears alter column "Generosity" type numeric;
+alter table allyears alter column "Trust" type numeric;
+alter table allyears alter column "SocSupport" type numeric;
+
 
 /*Usunięcie tych państw, które nie występują we wszystkich regionach*/
 
@@ -167,11 +180,12 @@ delete from allyears where "Country" = 'Mozambique';
 delete from allyears where "Country" = 'Namibia';
 delete from allyears where "Country" = 'Oman';
 delete from allyears where "Country" = 'Puerto Rico';
----delete from allyears where "Country" = 'Somalia';
+delete from allyears where "Country" = 'Somalia';
 delete from allyears where "Country" = 'Somaliland region';
 delete from allyears where "Country" = 'Somaliland Region';
 delete from allyears where "Country" = 'South Sudan';
 delete from allyears where "Country" = 'Sudan';
 delete from allyears where "Country" = 'Suriname';
 delete from allyears where "Country" = 'Swaziland';
+delete from allyears where "Country" = 'United Arab Emirates';
 
