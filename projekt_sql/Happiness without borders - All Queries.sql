@@ -73,7 +73,17 @@ select "Year",
 from "AllYears"
 where "Year" = '2015'
 group by "Year"
-order by "Year" asc -- slide 15 "The state of happiness in the regions"
+order by "Year" asc 
+
+-- slide 12 "The general state of happiness in the world – Year 2019"
+-- map
+-- visualisation Excel
+select "Country",
+       "HappiScore"
+from "AllYears" ay
+where "Year" ='2019'
+
+-- slide 15 "The state of happiness in the regions"
 -- chart box
 -- visualisation Python + MatPlotLib
 
