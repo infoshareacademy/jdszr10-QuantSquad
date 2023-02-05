@@ -259,6 +259,14 @@ where ay."Year" = '2019'
 order by ay."SocSupport" desc 
 limit 10
 
+-- slide 12 "The general state of happiness in the world – Year 2019"
+-- map
+-- visualisation Excel
+select "Country",
+       "HappiScore"
+from "AllYears" ay
+where "Year" ='2019'
+
 -- slide 13 "The state of happiness in the regions"
 -- chart box
 -- visualisation Python + MatPlotLib
