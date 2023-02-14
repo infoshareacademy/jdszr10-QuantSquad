@@ -404,6 +404,20 @@ from
                     from "AllYears" aymain) ax) ay) az) aw
 where "AllYearsInRow" is not null
 
+
+-- Slajd 22 - "Poland - change between 2015 and 2019"
+-- Visualisation Excel
+
+select "Year", "Country" , "HappiRank" , "HappiScore" , "GDP" ,
+"Health" , "Freedom" ,"Generosity" , "Trust" , "SocSupport" 
+from allyears a 
+where "Country"  = 'Poland'
+
+
+
+
+-- not used:
+
 -- slajd 17 - "Contries with the highest Happines Score, changes between 2015 and 2019"
 -- slajd 18 - "Contries with the lowest Happines Score, changes between 2015 and 2019"
 -- visualisation: aplication flourish (https://app.flourish.studio)
@@ -425,11 +439,3 @@ where "Year" = '2019'
 
 select *
 from "AllYears" ay 
-
--- Slajd 22 - "Poland - change between 2015 and 2019"
--- Visualisation Excel
-
-select "Year", "Country" , "HappiRank" , "HappiScore" , "GDP" ,
-"Health" , "Freedom" ,"Generosity" , "Trust" , "SocSupport" 
-from allyears a 
-where "Country"  = 'Poland'
