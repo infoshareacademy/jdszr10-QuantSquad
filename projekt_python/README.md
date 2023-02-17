@@ -34,3 +34,15 @@ Restore virtual Jupyter environment on another computer:
 ```bash
 conda create --name ENVProjectPython --file ENVProjectPython.txt
 ```
+
+# Set correct environment in Jupyter
+
+Install ipykernel
+```bash
+conda install ipykernel
+```
+
+Add own environment to Jupyter:
+```bash
+python -m ipykernel install --user --name ENVPythonProject --display-name "ENVPythonProject"
+```
