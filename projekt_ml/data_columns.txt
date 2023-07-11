@@ -1,0 +1,478 @@
+encoded_Civilian_Casualties
+Area_of_Origin_Assembly Area (inc school room,spectator area, church, etc)
+Area_of_Origin_Attached Deck
+Area_of_Origin_Attic Area
+Area_of_Origin_Awning or Canopy
+Area_of_Origin_Basement/cellar (not partitioned)
+Area_of_Origin_Chimney/Flue Pipe
+Area_of_Origin_Closet (eg. clothes, broom, linen closet, etc.)
+Area_of_Origin_Concealed Ceiling Area
+Area_of_Origin_Concealed Floor Area
+Area_of_Origin_Concealed Wall Area
+Area_of_Origin_Conveyor Shaft or Chute (inc dumbwaiter, laundry chute, garbage
+Area_of_Origin_Cooking Area or Kitchen
+Area_of_Origin_Court, Patio, Terrace
+Area_of_Origin_Covered Court, Atrium, mall concourse
+Area_of_Origin_Crawl Space (includes sub-structure)
+Area_of_Origin_Dining or Beverage Area (inc mess, canteen, lunchroom, cafeteria
+Area_of_Origin_Ducting - Exhaust (inc cooking, fumes, etc.)
+Area_of_Origin_Ducting - Heating, Air Conditioning
+Area_of_Origin_Electrical Systems
+Area_of_Origin_Electronic Equipment
+Area_of_Origin_Elevator (includes shaft)
+Area_of_Origin_Engine Area
+Area_of_Origin_Exterior Wall
+Area_of_Origin_Fuel Dispensing Area (outside)
+Area_of_Origin_Fuel Systems (eg. fuel tank, etc.)
+Area_of_Origin_Garage
+Area_of_Origin_HVAC Equipment Room (furnace room, water heater closet, boiler)
+Area_of_Origin_Hallway, Corridor
+Area_of_Origin_Incinerator Room
+Area_of_Origin_Laboratory
+Area_of_Origin_Laundry Area
+Area_of_Origin_Living Area (e.g. living, TV, recreation, etc)
+Area_of_Origin_Lobby, Entranceway
+Area_of_Origin_Locker (apartment storage)
+Area_of_Origin_Mechanical/Electrical Services Room
+Area_of_Origin_Multiple Areas of Origin
+Area_of_Origin_Office
+Area_of_Origin_Open Area (inc lawn, field, farmyard, park, playing field, pier,
+Area_of_Origin_Operating Room, Treatment or Examination Area
+Area_of_Origin_Operator/Control Area
+Area_of_Origin_Other - unclassified
+Area_of_Origin_Other Building Services/Support Facilities
+Area_of_Origin_Other Functional Area
+Area_of_Origin_Other Means of Egress
+Area_of_Origin_Other Outside Area
+Area_of_Origin_Other Storage Area
+Area_of_Origin_Other Structural Area
+Area_of_Origin_Other Vehicle Area
+Area_of_Origin_Parking Area, Parking Lot
+Area_of_Origin_Passenger Area
+Area_of_Origin_Performance Area (inc stage, rink, boxing ring, gym floor, altar
+Area_of_Origin_Porch or Balcony
+Area_of_Origin_Process Manufacturing (inc manf, prod assembly, repair)
+Area_of_Origin_Product Storage (inc products or materials awaiting manuf, assembly)
+Area_of_Origin_Records storage area (inc vaults)
+Area_of_Origin_Residential/Business: Other busines area
+Area_of_Origin_Residential/Business: Restaurant area
+Area_of_Origin_Roof
+Area_of_Origin_Running Gear (inc wheels and braking systems, transmission syste
+Area_of_Origin_Sales, Showroom Area
+Area_of_Origin_Sauna
+Area_of_Origin_Shipping/Receiving/Loading Platform
+Area_of_Origin_Sleeping Area or Bedroom (inc. patients room, dormitory, etc)
+Area_of_Origin_Stairway, Escalator
+Area_of_Origin_Storage Area (outside)
+Area_of_Origin_Supply Storage Room (inc maintenance/office/document storage, et
+Area_of_Origin_Trash, Rubbish Storage (inc garbage chute room, garbage/industri
+Area_of_Origin_Trash, rubbish area (outside)
+Area_of_Origin_Trunk/Cargo Area
+Area_of_Origin_Under Investigation
+Area_of_Origin_Undetermined  (formerly 98)
+Area_of_Origin_Utility Shaft (eg. electrical wiring/phone, etc.)
+Area_of_Origin_Washroom or Bathroom (toilet,restroom/locker room)
+Extent_Of_Fire_Confined to object of origin
+Extent_Of_Fire_Confined to part of room/area of origin
+Extent_Of_Fire_Confined to roof/exterior structure
+Extent_Of_Fire_Entire Structure
+Extent_Of_Fire_Multi unit bldg: spread beyond suite of origin but not to separated suite(s)
+Extent_Of_Fire_Multi unit bldg: spread to separate suite(s)
+Extent_Of_Fire_Spread beyond building of origin
+Extent_Of_Fire_Spread beyond building of origin, resulted in exposure fire(s)
+Extent_Of_Fire_Spread beyond room of origin, same floor
+Extent_Of_Fire_Spread to entire room of origin
+Extent_Of_Fire_Spread to other floors, confined to building
+Extent_Of_Fire_Undetermined
+Fire_Alarm_System_Impact_on_Evacuation_All persons (at risk of injury) evacuated as a result of hearing fire alarm system
+Fire_Alarm_System_Impact_on_Evacuation_Fire Alarm system operated but failed to alert occupant(s)
+Fire_Alarm_System_Impact_on_Evacuation_No one (at risk) evacuated as a result of hearing fire alarm system
+Fire_Alarm_System_Impact_on_Evacuation_Not applicable: No fire alarm system, no persons present
+Fire_Alarm_System_Impact_on_Evacuation_Not applicable: Occupant(s) first alerted by other means
+Fire_Alarm_System_Impact_on_Evacuation_Some persons (at risk) evacuated as a result of hearing fire alarm system
+Fire_Alarm_System_Impact_on_Evacuation_Undetermined
+Fire_Alarm_System_Operation_Fire alarm system did not operate
+Fire_Alarm_System_Operation_Fire alarm system operated
+Fire_Alarm_System_Operation_Fire alarm system operation undetermined
+Fire_Alarm_System_Operation_Not applicable (no system)
+Fire_Alarm_System_Presence_Fire alarm system present
+Fire_Alarm_System_Presence_No Fire alarm system
+Fire_Alarm_System_Presence_Not applicable (bldg not classified by OBC OR detached/semi/town home)
+Fire_Alarm_System_Presence_Undetermined
+Ignition_Source_Air Conditioner - Window or Room Unit
+Ignition_Source_Blow Torch, Bunsen Burner
+Ignition_Source_Candle
+Ignition_Source_Central Heating/Cooling Unit
+Ignition_Source_Chemical Processing Equipment (eg. reactors, distilling units, e
+Ignition_Source_Chemical Reaction (eg. spontaneous combustion, etc.)
+Ignition_Source_Chimney - Factory Built
+Ignition_Source_Chimney - Masonry
+Ignition_Source_Christmas Lights, Decorative Lighting
+Ignition_Source_Circuit Wiring - Aluminum
+Ignition_Source_Circuit Wiring - Copper
+Ignition_Source_Clothes Dryer
+Ignition_Source_Cord, Cable for Appliance, Electrical Articles
+Ignition_Source_Cutting/Welding Equipment
+Ignition_Source_Deep Fat Fryer
+Ignition_Source_Distribution Equipment (includes panel boards, fuses, circuit br
+Ignition_Source_Electric Blanket, Heating Pad
+Ignition_Source_Exposure, source grass, shrubs, trees
+Ignition_Source_Exposure, source open fire (inc campfire, rubbish fire)
+Ignition_Source_Exposure, source other
+Ignition_Source_Exposure, source structure detached
+Ignition_Source_Exposure, source structure semi-detached or attached
+Ignition_Source_Exposure, source vehicle (outside structure)
+Ignition_Source_Extension Cord, Temporary Wiring
+Ignition_Source_Fireplace - Factory Built
+Ignition_Source_Fireplace - Masonry
+Ignition_Source_Fireplace Insert
+Ignition_Source_Fireworks
+Ignition_Source_Florescent Lamp (includes ballast)
+Ignition_Source_Flue Pipe
+Ignition_Source_Halogen Lamp or light
+Ignition_Source_Heat Treatment Equipment (eg. furnace, oven, kiln, quench tanks,
+Ignition_Source_Hot Ashes, Embers, Spark
+Ignition_Source_Incandescent Lamp - Light Bulb, Spotlight
+Ignition_Source_Incinerator
+Ignition_Source_Iron, Pressing Machine
+Ignition_Source_Lamp (eg. coal, oil, naphtha, etc.)
+Ignition_Source_Lighters (open flame)
+Ignition_Source_Lightning
+Ignition_Source_Matches (open flame)
+Ignition_Source_Matches or Lighters (unable to distinguish)
+Ignition_Source_Meter
+Ignition_Source_Microwave
+Ignition_Source_Multiple Ignition Source or Igniting Equipment (suspected arson)
+Ignition_Source_Open Fire (eg. camp fire, rubbish fire, etc.)
+Ignition_Source_Open Fired Barbeque - Fixed or Portable
+Ignition_Source_Other
+Ignition_Source_Other Appliances
+Ignition_Source_Other Cooking Items (eg Toaster, Kettle, elec frying pan)
+Ignition_Source_Other Electrical
+Ignition_Source_Other Electrical Distribution Item
+Ignition_Source_Other Heating Equipment
+Ignition_Source_Other Lighting Equipment
+Ignition_Source_Other Mechanical
+Ignition_Source_Other Open Flame Tools/Smokers' Articles
+Ignition_Source_Other Processing Equipment
+Ignition_Source_Outdoor fireplace/heater
+Ignition_Source_Oven
+Ignition_Source_Painting Equipment
+Ignition_Source_Portable generator
+Ignition_Source_Range Hood
+Ignition_Source_Refrigerator, Freezer (includes vending machine)
+Ignition_Source_Rekindle
+Ignition_Source_Salamander
+Ignition_Source_Service/Utility Lines (includes power/hydro transmission lines)
+Ignition_Source_Smoker's Articles (eg. cigarettes, cigars, pipes already ignited
+Ignition_Source_Space Heater - Fixed
+Ignition_Source_Space Heater - Portable
+Ignition_Source_Static Electricity (spark)
+Ignition_Source_Stove, Range-top burner
+Ignition_Source_Television, Radio, Stereo, Tape Recorder, etc.
+Ignition_Source_Terminations-Aluminum (incl receptables, switches, lights)
+Ignition_Source_Terminations-Copper (incl receptacles, switches, lights)
+Ignition_Source_Transformer
+Ignition_Source_Under Investigation
+Ignition_Source_Undetermined
+Ignition_Source_Vehicle - Electrical
+Ignition_Source_Vehicle - Mechanical
+Ignition_Source_Vehicle collision
+Ignition_Source_Washing Machine
+Ignition_Source_Water Heater
+Ignition_Source_Wood burning stove
+Material_First_Ignited_Agricultural Product - Grown (eg. straw, seeds, etc.)
+Material_First_Ignited_Agricultural Product - Other (eg pesticide, fertilizer)
+Material_First_Ignited_Alcohol (methanol)
+Material_First_Ignited_Asphalt, Tar Product
+Material_First_Ignited_Bedding
+Material_First_Ignited_Books, Magazines, Newspapers
+Material_First_Ignited_Bush, Grass, Tree, Leaves, etc.
+Material_First_Ignited_Cabinetry
+Material_First_Ignited_Christmas Tree
+Material_First_Ignited_Cleaning Supplies
+Material_First_Ignited_Cooking Oil, Grease
+Material_First_Ignited_Creosote (chimney, flue pipe)
+Material_First_Ignited_Curtain, Drapery
+Material_First_Ignited_Diesel Fuel/Fuel Oil
+Material_First_Ignited_Electrical Wiring Insulation
+Material_First_Ignited_Exterior Cladding
+Material_First_Ignited_Exterior Roof Covering
+Material_First_Ignited_Fabric - Natural (eg. cotton, wool, etc.)
+Material_First_Ignited_Fabric - Synthetic, Combination
+Material_First_Ignited_Floor
+Material_First_Ignited_Gasoline
+Material_First_Ignited_Insulation
+Material_First_Ignited_Interior Wall/Ceiling
+Material_First_Ignited_Linen Other than Bedding
+Material_First_Ignited_Mattress, Pillow
+Material_First_Ignited_Multiple Objects or Materials
+Material_First_Ignited_Multiple diverse objects ignited
+Material_First_Ignited_Natural Gas
+Material_First_Ignited_Nest
+Material_First_Ignited_Non-upholstered Chair, etc.
+Material_First_Ignited_Oily rags (inc. paint rags, etc)
+Material_First_Ignited_Other
+Material_First_Ignited_Other Building Component
+Material_First_Ignited_Other Flammable, Combustible Liquid
+Material_First_Ignited_Other Furniture
+Material_First_Ignited_Other Gases
+Material_First_Ignited_Other Soft Goods, Wearing Apparel
+Material_First_Ignited_Other chemicals, materials not classified above
+Material_First_Ignited_Oxidizing material (inc bleach, peroxide)
+Material_First_Ignited_Paint, varnish stored in container
+Material_First_Ignited_Paper, Cardboard
+Material_First_Ignited_Plastic
+Material_First_Ignited_Propane
+Material_First_Ignited_Pyrophoric metals
+Material_First_Ignited_Rubber, not classified above
+Material_First_Ignited_Rubbish, Trash, Waste
+Material_First_Ignited_Rug, Carpet
+Material_First_Ignited_Structural Member
+Material_First_Ignited_Under Investigation
+Material_First_Ignited_Undetermined (formerly 98)
+Material_First_Ignited_Upholstered Sofa, Chair, etc.
+Material_First_Ignited_Vehicle
+Material_First_Ignited_Wearing Apparel on a Person
+Material_First_Ignited_Wood
+Possible_Cause_Children Playing (Ages 11 and under)
+Possible_Cause_Design/Construction/Installation/Maintenance Deficiency
+Possible_Cause_Electrical Failure
+Possible_Cause_Exposure fire
+Possible_Cause_Improper Storage
+Possible_Cause_Improper handling of ignition source or ignited material
+Possible_Cause_Improperly Discarded
+Possible_Cause_Mechanical Failure
+Possible_Cause_Natural Cause
+Possible_Cause_Other misuse of ignition source/material ignited
+Possible_Cause_Other unintentional cause, not classified
+Possible_Cause_Rekindle
+Possible_Cause_Riot/Civil Commotion
+Possible_Cause_Routine maintenance deficiency, eg creosote, lint, grease buildup
+Possible_Cause_Suspected Arson
+Possible_Cause_Suspected Vandalism
+Possible_Cause_Suspected Youth Vandalism (Ages 12 to 17)
+Possible_Cause_Unattended
+Possible_Cause_Under Investigation
+Possible_Cause_Undetermined
+Possible_Cause_Unintentional, cause undetermined
+Possible_Cause_Used for purpose not intended
+Possible_Cause_Used or Placed too close to combustibles
+Possible_Cause_Vehicle Accident/Collision
+Property_Use_Adult Detention Camp (minimum security)
+Property_Use_Apartment, Flat, Tenement with Business
+Property_Use_Arena
+Property_Use_Art Gallery
+Property_Use_Attached Dwelling (eg. rowhouse, townhouse, etc.)
+Property_Use_Attached Dwelling with Business
+Property_Use_Auditorium
+Property_Use_Automobile
+Property_Use_Bank
+Property_Use_Bar, Tavern, Night Club
+Property_Use_Barber Shop, Hairdresser, Beauty Parlor, tanning salon
+Property_Use_Big Box Store
+Property_Use_Bingo Hall
+Property_Use_Bleacher, Grandstand, Reviewing Stand
+Property_Use_Book/Stationary/Art Supply Store
+Property_Use_Bowling Alley, Billiard Centre, pool hall
+Property_Use_Building Supply Store
+Property_Use_Bus Terminal
+Property_Use_Casino
+Property_Use_Catalogue/Mail Order Outlet
+Property_Use_Church Hall
+Property_Use_Church, Other Similar Place of Worship
+Property_Use_Clothing Store, Accessories, fur
+Property_Use_Community/Exhibition/Dance Hall
+Property_Use_Computer, electronic data processing, records storage
+Property_Use_Computer/electronics store, service or repair
+Property_Use_Convalescent Home or long term care (excluding senior care)
+Property_Use_Convenience/Variety Store
+Property_Use_Convent, Monastery
+Property_Use_Court Facility
+Property_Use_Dance Studio
+Property_Use_Day Care Centre
+Property_Use_Dental/Medical Office
+Property_Use_Department Store
+Property_Use_Detached Dwelling
+Property_Use_Detached Dwelling with Business
+Property_Use_Detached Garage
+Property_Use_Detached/Semi/Attached with Accessory Apartment Above Grade
+Property_Use_Detached/Semi/Attached with Accessory Apartment Below Grade
+Property_Use_Document centre, record repository (inc archives)
+Property_Use_Engineering, Architect or Tech office
+Property_Use_Exhibition, Fair Stand, Amusement Park Structure
+Property_Use_Fabric Store
+Property_Use_Fire Station
+Property_Use_Florist
+Property_Use_Funeral Facility
+Property_Use_Furniture, upholstery repair without sales
+Property_Use_Furniture/Appliance Store
+Property_Use_Garage:  General Auto Parking - Structure
+Property_Use_Garden Supply
+Property_Use_Gas Distribution Facility
+Property_Use_General Business Office
+Property_Use_Gifts, jewellery, leather goods, mixed goods
+Property_Use_Group Home
+Property_Use_Gymnasium
+Property_Use_Halfway/Transitional House
+Property_Use_Hardware Store
+Property_Use_Heating Plant - central/district heating plant, steam, etc
+Property_Use_Hospice
+Property_Use_Hostel
+Property_Use_Hotel, Motel, Lodging - 4 or more guests or suites
+Property_Use_Hotel, Motel, Lodging - Less than 4 guests or suites (inc B&B)
+Property_Use_Houseboat
+Property_Use_Hydro Distribution Facility
+Property_Use_Ice Rink
+Property_Use_Indoor Swimming Facility
+Property_Use_Infirmary
+Property_Use_Institute for the blind, deaf
+Property_Use_Jail, Prison, Penitentiary
+Property_Use_Laboratory
+Property_Use_Laundry, Dry Cleaner (includes self-service)
+Property_Use_Lecture Hall
+Property_Use_Legislative Facility/Building
+Property_Use_Library
+Property_Use_Liquor/Wine/Beer Store
+Property_Use_Lumber Yard
+Property_Use_Mailing, photocopying office
+Property_Use_Mall - public area common to multi store facility
+Property_Use_Marina, Marine Service Station
+Property_Use_Marine Terminal
+Property_Use_Market - Indoors (flowers, fruit, vegetable sales)
+Property_Use_Market - Outdoors (flowers, fruit, vegetable sales)
+Property_Use_Mfg:  Canning, preserving, processing fruits, vegetables
+Property_Use_Mfg:  Floor covering and coated fabrics (exc rubber, ceramic)
+Property_Use_Mfg: Aircraft, Parts
+Property_Use_Mfg: Alcoholic Beverages
+Property_Use_Mfg: Asphalt Products
+Property_Use_Mfg: Chemicals, inc hazardous chemicals
+Property_Use_Mfg: Drugs, Cosmetics, Pharmaceutical
+Property_Use_Mfg: Dry Cleaning Plant
+Property_Use_Mfg: Grain Products, Bakery Goods
+Property_Use_Mfg: Job Printing (eg forms, greeting cards, etc)
+Property_Use_Mfg: Meat/Poultry/Fish Products
+Property_Use_Mfg: Other Agr/Food, Beverage, Tabac products
+Property_Use_Mfg: Other Chemical/Petroleum/Paint/Plastic Products
+Property_Use_Mfg: Other Metal/Eletctrical/Miscellaneous Products
+Property_Use_Mfg: Other Textiles, Clothing, Leather goods
+Property_Use_Mfg: Other Vehicles, Parts
+Property_Use_Mfg: Other Wood, Furniture, Paper Products, Printing
+Property_Use_Mfg: Paint, Varnishes, Lacquers
+Property_Use_Mfg: Petroleum Products
+Property_Use_Mfg: Plastics
+Property_Use_Mfg: Prec.Goods/Instruments (eg surgical instr, cameras, etc)
+Property_Use_Mfg: Precious Metals, Jewellery
+Property_Use_Mfg: Primary Metal Processing (eg refining, melting, etc)
+Property_Use_Mfg: Primary Processing (eg sawmill, plywood manufacturer, etc)
+Property_Use_Mfg: Printing, Publishing (eg newspapers, magazines, books)
+Property_Use_Mfg: Pulp, Paper Processing
+Property_Use_Mfg: Road Vehicles, Parts
+Property_Use_Mfg: Rubber Goods
+Property_Use_Mfg: Secondary Metal Processing (eg rolling, drawing, polishing)
+Property_Use_Mfg: Secondary Processing (eg finished goods, furniture, etc)
+Property_Use_Mfg: Sugar Refining, Sugar Products
+Property_Use_Mfg: Textile Manufacturing (e.g. preparing fibers, spinning, weaving)
+Property_Use_Mfg: Vegetable/Animal Oil Products
+Property_Use_Mfg: Watercraft, Parts
+Property_Use_Mfg: Wearing Apparal Manufacturing
+Property_Use_Mfg:Glass & glass products, china, pottery
+Property_Use_Mobile Home
+Property_Use_Motor Home, Camper, Trailer
+Property_Use_Motor Vehicle Parts, Accessory Sales
+Property_Use_Motor Vehicle Repair Garage
+Property_Use_Motor Vehicle Sales
+Property_Use_Multi-Unit Dwelling - 2 to 6 Units
+Property_Use_Multi-Unit Dwelling - 7 to 12 Units
+Property_Use_Multi-Unit Dwelling - Over 12 Units
+Property_Use_Museum
+Property_Use_Non Residential Club
+Property_Use_Other Assembly
+Property_Use_Other Business or Personal Services
+Property_Use_Other Care & Detention Not Classified
+Property_Use_Other Industrial
+Property_Use_Other Mercantile
+Property_Use_Other Residential
+Property_Use_Other Utilities
+Property_Use_Other Vehicle Sales/Service
+Property_Use_Other care facility
+Property_Use_Paint/Wallpaper Store
+Property_Use_Pharmacy
+Property_Use_Police Station (with detention quarters)
+Property_Use_Police Station (without detention quarters)
+Property_Use_Post Office
+Property_Use_Psychiatric Hospital (with detention quarters)
+Property_Use_Psychiatric Hospital (without detention quarters)
+Property_Use_Public/Private Hospital
+Property_Use_Railway Station
+Property_Use_Recycling Facility
+Property_Use_Reformatory (with detention quarters)
+Property_Use_Residential Club (inc sorority, fraternity)
+Property_Use_Restaurant (occupant load less than 30 persons)
+Property_Use_Restaurants (occupant load greater than 30 persons, licensed)
+Property_Use_Retirement Home
+Property_Use_Rooming/Boarding/Lodging House
+Property_Use_Rug, floor covering store
+Property_Use_Sanitary Services (includes plant)
+Property_Use_School - Business, Commerce, Secretarial
+Property_Use_School - Elementary
+Property_Use_School - Post Secondary (College)
+Property_Use_School - Post Secondary (University)
+Property_Use_School - Pre-Elementary
+Property_Use_School - Secondary Junior High (Gr. 7 & 8)
+Property_Use_School - Secondary/Senior High (Gr. 9+)
+Property_Use_School - Technical, Industrial Trade
+Property_Use_School/College Dormitory (detached from educational facility)
+Property_Use_Secondary Products (eg. finished goods, furniture, etc.)
+Property_Use_Semi-Detached Dwelling
+Property_Use_Semi-Detached Dwelling with Business
+Property_Use_Seniors long term care facility, licensed
+Property_Use_Service Station
+Property_Use_Shelter for displaced/abused persons
+Property_Use_Small Tool/Appliance Rental/Service Establishment
+Property_Use_Specialty Food Store (eg. butcher, delicatessen, etc.)
+Property_Use_Specialty Vehicles, Parts
+Property_Use_Sports/Country/Social/Yacht Club
+Property_Use_Stadium
+Property_Use_Sto: Chemicals, inc hazardous chemicals
+Property_Use_Sto: Cold Storage - Processed Food
+Property_Use_Sto: Dairy Goods, Produce
+Property_Use_Sto: Dry Cleaning Plant
+Property_Use_Sto: Glass & Glass Products, pottery, chinaware
+Property_Use_Sto: Grain Products, Bakery Goods
+Property_Use_Sto: Meat/Poultry/Fish products
+Property_Use_Sto: Other Agri Products, Food, Beverages, Tobacco, etc
+Property_Use_Sto: Other Chem/Petroleum/Paint/Plastic Products
+Property_Use_Sto: Other Metal/Electrical/Misc Parts
+Property_Use_Sto: Other Textile Goods
+Property_Use_Sto: Other Vehicles, Parts
+Property_Use_Sto: Other Wood, Furniture, Paper Products, Printing
+Property_Use_Sto: Packed food stuffs (not classified by other codes)
+Property_Use_Sto: Plastics
+Property_Use_Sto: Precision Goods/Instruments
+Property_Use_Sto: Pulp, Paper
+Property_Use_Sto: Rail Vehicles, Parts
+Property_Use_Sto: Road Vehicles, Parts
+Property_Use_Sto: Soft Drinks
+Property_Use_Sto: Specialty Vehicles, Parts
+Property_Use_Sto: Sugar Refining, Sugar Products
+Property_Use_Sto: Tank, Tank Farm, Other Liquids
+Property_Use_Sto: Tent or temporary structure for industrial storage
+Property_Use_Sto: Textiles
+Property_Use_Sto: Vegetable/Animal Oil Products
+Property_Use_Sto: Warehouse, variety of items, not classified by codes
+Property_Use_Sto: Wearing Apparal
+Property_Use_Structure under 10 sq. metres not classified
+Property_Use_Subway Station
+Property_Use_Supermarket, Grocery Store
+Property_Use_TV, radio, motion picture studio
+Property_Use_Tent
+Property_Use_Tent or temporary structure for Mercantile activity
+Property_Use_Tent or temporary structure for assembly activity
+Property_Use_Tent or temporary structure for business or personal service activity
+Property_Use_Theatre - Concert Hall, Live
+Property_Use_Theatre - Motion Picture
+Property_Use_Trash/Rubbish/Garbage Container or Dumpster
+Property_Use_Video Rental Shop
+Property_Use_Waste Transfer Station
+Property_Use_Water Works
